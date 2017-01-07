@@ -1,2 +1,3 @@
 # trainingtools
 I want to collected every kind of training and educational tools. Preferably blended...
+This my first experience on github. Why I'm here? I'm working on a project based on sharing skills. I want to discover if github could be the right tool to build a platform designed to share own skills. 
